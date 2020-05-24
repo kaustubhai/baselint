@@ -1,0 +1,8 @@
+-qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://www.luxasia.com/ -O1 "D:\xampp\htdocs\Atlancey\luxasia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://www.luxasia.com/* +*https://www.luxasia.com/*
+File generated automatically on Wed, 20 May 2020 03:12:31, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
