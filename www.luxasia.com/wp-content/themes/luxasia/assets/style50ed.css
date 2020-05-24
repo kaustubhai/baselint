@@ -591,7 +591,7 @@ table {
   display: inline-block;
   padding: 7px 25px;
   padding: 0.4375rem 1.5625rem;
-  background-color: #1a4a54;
+  background-color: #18355f;
   color: #fff;
   cursor: pointer;
   border-radius: 25px;
@@ -600,7 +600,7 @@ table {
   font-weight: 400 !important;
 }
 .button-1:hover {
-  background-color: #18355F;
+  background-color: rgb(6, 19, 37);
 }
 .link-1 {
   display: inline-block;
@@ -12579,26 +12579,26 @@ footer {
 }
 .index-brands-img {
   display: inline-block;
-  width: -webkit-calc(100%/3 - (((3 - 1) * 16px) / 3));
-  width: -webkit-calc(100%/3 - (((3 - 1) * 1rem) / 3));
-  width: calc(100% / 3 - (((3 - 1) * 16px) / 3));
-  width: calc(100% / 3 - (((3 - 1) * 1rem) / 3));
-  padding: 5px;
+  width: -webkit-calc(100%/4 - (((4 - 1) * 16px) / 4));
+  width: -webkit-calc(100%/4 - (((4 - 1) * 1rem) / 4));
+  width: calc(100% / 4 - (((4 - 1) * 16px) / 4));
+  width: calc(100% / 4 - (((4 - 1) * 1rem) / 4));
+  padding: 15px;
 }
 @media (min-width: 768px) {
-  .index-brands-img {
-    width: -webkit-calc(100%/5 - (((5 - 1) * 16px) / 5));
-    width: -webkit-calc(100%/5 - (((5 - 1) * 1rem) / 5));
-    width: calc(100% / 5 - (((5 - 1) * 16px) / 5));
-    width: calc(100% / 5 - (((5 - 1) * 1rem) / 5));
-  }
-}
-@media (min-width: 1024px) {
   .index-brands-img {
     width: -webkit-calc(100%/6 - (((6 - 1) * 16px) / 6));
     width: -webkit-calc(100%/6 - (((6 - 1) * 1rem) / 6));
     width: calc(100% / 6 - (((6 - 1) * 16px) / 6));
     width: calc(100% / 6 - (((6 - 1) * 1rem) / 6));
+  }
+}
+@media (min-width: 1024px) {
+  .index-brands-img {
+    width: -webkit-calc(100%/8 - (((8 - 1) * 16px) / 8));
+    width: -webkit-calc(100%/8 - (((8 - 1) * 1rem) / 8));
+    width: calc(100% / 8 - (((8 - 1) * 16px) / 8));
+    width: calc(100% / 8 - (((8- 1) * 1rem) / 8));
   }
 }
 .index-brands-maxwidth {
