@@ -12860,7 +12860,7 @@ footer {
   width: 95%;
 }
 .busi-opacity {
-  opacity: 0.4 !important;
+  opacity: 0.6 !important;
   -webkit-transition: opacity 0.5s ease;
   transition: opacity 0.5s ease;
 }
