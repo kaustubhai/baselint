@@ -1,3 +1,4 @@
+
 a,
 abbr,
 acronym,
@@ -11851,7 +11852,7 @@ footer {
 }
 @media (min-width: 1024px) {
   .footer-row:first-child {
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #000 !important;
   }
 }
 .footer-copy {
